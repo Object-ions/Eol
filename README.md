@@ -1,42 +1,27 @@
-<br>
+### EOL - Epicodus Online
 
- <p align="center">
-    🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️
-    
-</p>
-  <p align="center">
-  🖥️🖥️🖥️🖥️🖥️<u><big>|| <b>EOL - Epicodus Online</b> ||</big></u>🖥️🖥️🖥️🖥️🖥️
-</p>
-    <p align="center">
-      🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️
-    </p>
-    <p align="center">
-  <small>Initiated October 30th, 2023</small>
-  <br>
-  <small>By:</small>
-</p>
- <p align="center">
+Initiated October 30th, 2023
+By:
     <a href="https://github.com/Schmelzberry">
-        <strong>Schmelzberry</strong>
+        Schmelzberry
     </a>
     <br>
        <a href="https://github.com/pletourneau">
-        <strong>pletourneau</strong>
+        pletourneau
     </a>
     <br>
        <a href="https://github.com/sethgonzales">
-        <strong>sethgonzales</strong>
+        sethgonzales
     </a>
     <br>
        <a href="https://github.com/Object-ions">
-        <strong>Object-ions</strong>
+        Object-ions
     </a>
     <br>
        <a href="https://github.com/jfpalchak">
-        <strong>jfpalchak</strong>
+        jfpalchak
     </a>
     <br>
-  </p>
     
 ------------------------------
 
