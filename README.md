@@ -1,7 +1,7 @@
 ### EOL - Epicodus Online
 
-Initiated October 30th, 2023
-By:
+Initiated October 30th, 2023. By:
+<br>
     <a href="https://github.com/Schmelzberry">
         Schmelzberry
     </a>
