@@ -29,7 +29,7 @@ Initiated October 30th, 2023. By:
 
 ### 💻 Description
 
-[Epicodus Online (EOL)](epicodus-online.azurewebsites.net) is an AIM-inspired message service that allows users to communicate real-time in a public chat room, or one-on-one in a private conversation with another user. 
+[Epicodus Online (EOL)](https://eol-app.onrender.com/) is an AIM-inspired message service that allows users to communicate real-time in a public chat room, or one-on-one in a private conversation with another user. 
 
 <img src="https://github.com/Schmelzberry/Eol/blob/main/Eol/wwwroot/img/eol-chat.png" alt="EOL chatroom.">
 
